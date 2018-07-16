@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 flunet2010_11countries.csv
+flu.json
